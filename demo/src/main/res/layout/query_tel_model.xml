@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    style="@style/fill_fill"
+    >
+    <TextView
+        android:layout_width="fill_parent"
+        android:id="@+id/query_result_tv"
+        android:layout_weight="1"
+        android:background="@null"
+        android:hint="查询结果"
+        android:layout_height="wrap_content" />
+</LinearLayout>

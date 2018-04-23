@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":app"><source path="D:\android_project\BaseAppFramework\app\build\intermediates\packagedAssets\debug"/></dataSet><dataSet config="main"><source path="D:\android_project\BaseAppFramework\demo\src\main\assets"/><source path="D:\android_project\BaseAppFramework\demo\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\android_project\BaseAppFramework\demo\src\debug\assets"/></dataSet></merger>
