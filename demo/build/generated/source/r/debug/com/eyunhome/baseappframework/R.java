@@ -1486,6 +1486,7 @@ public final class R {
         public static final int abc_shareactionprovider_share_with_application = 0x7f0c001b;
         public static final int abc_toolbar_collapse_description = 0x7f0c001c;
         public static final int action_settings = 0x7f0c001d;
+        public static final int app_name = 0x7f0c001e;
         public static final int dimension = 0x7f0c001f;
         public static final int pull_to_refresh_from_bottom_pull_label = 0x7f0c0021;
         public static final int pull_to_refresh_from_bottom_refreshing_label = 0x7f0c0022;

@@ -13,6 +13,7 @@ MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\acer\.gradle\c
 MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7e7ef5a60ab5d5dd05423dbf020b702d\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\040ff413f608e7c6706fae3f38de0dd1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ebed60149b0d7746eed344c47ae2c045\AndroidManifest.xml:17:1-22:12
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.8.0] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.0.aar\aff31e74e7e1f159499fd98fb5298620\AndroidManifest.xml:2:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\31bf32e563ccd697a3fd8ec66df4c10f\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8cc0bb8f0a1eee86dd14bf7a5763306e\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2b88a8b80290074f9daf02a3ae823841\AndroidManifest.xml:17:1-22:12
@@ -38,6 +39,8 @@ INJECTED from D:\android_project\BaseAppFramework\demo\src\main\AndroidManifest.
 		ADDED from D:\android_project\BaseAppFramework\demo\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from D:\android_project\BaseAppFramework\demo\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.8.0] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.0.aar\aff31e74e7e1f159499fd98fb5298620\AndroidManifest.xml:12:5-79
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.8.0] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.0.aar\aff31e74e7e1f159499fd98fb5298620\AndroidManifest.xml:12:5-79
 	android:name
 		ADDED from D:\android_project\BaseAppFramework\demo\src\main\AndroidManifest.xml:6:22-76
 uses-permission#android.permission.READ_PHONE_STATE
@@ -46,10 +49,14 @@ ADDED from D:\android_project\BaseAppFramework\demo\src\main\AndroidManifest.xml
 		ADDED from D:\android_project\BaseAppFramework\demo\src\main\AndroidManifest.xml:7:22-72
 uses-permission#android.permission.INTERNET
 ADDED from D:\android_project\BaseAppFramework\demo\src\main\AndroidManifest.xml:8:5-67
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.8.0] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.0.aar\aff31e74e7e1f159499fd98fb5298620\AndroidManifest.xml:11:5-67
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.8.0] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.0.aar\aff31e74e7e1f159499fd98fb5298620\AndroidManifest.xml:11:5-67
 	android:name
 		ADDED from D:\android_project\BaseAppFramework\demo\src\main\AndroidManifest.xml:8:22-64
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from D:\android_project\BaseAppFramework\demo\src\main\AndroidManifest.xml:9:5-76
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.8.0] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.0.aar\aff31e74e7e1f159499fd98fb5298620\AndroidManifest.xml:13:5-76
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.8.0] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.0.aar\aff31e74e7e1f159499fd98fb5298620\AndroidManifest.xml:13:5-76
 	android:name
 		ADDED from D:\android_project\BaseAppFramework\demo\src\main\AndroidManifest.xml:9:22-73
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
@@ -58,6 +65,8 @@ ADDED from D:\android_project\BaseAppFramework\demo\src\main\AndroidManifest.xml
 		ADDED from D:\android_project\BaseAppFramework\demo\src\main\AndroidManifest.xml:10:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from D:\android_project\BaseAppFramework\demo\src\main\AndroidManifest.xml:12:5-81
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.8.0] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.0.aar\aff31e74e7e1f159499fd98fb5298620\AndroidManifest.xml:14:5-81
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.8.0] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.0.aar\aff31e74e7e1f159499fd98fb5298620\AndroidManifest.xml:14:5-81
 	android:name
 		ADDED from D:\android_project\BaseAppFramework\demo\src\main\AndroidManifest.xml:12:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
@@ -110,6 +119,8 @@ MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\acer\.
 MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\040ff413f608e7c6706fae3f38de0dd1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ebed60149b0d7746eed344c47ae2c045\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ebed60149b0d7746eed344c47ae2c045\AndroidManifest.xml:20:5-44
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.8.0] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.0.aar\aff31e74e7e1f159499fd98fb5298620\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.8.0] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.0.aar\aff31e74e7e1f159499fd98fb5298620\AndroidManifest.xml:7:5-9:41
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\31bf32e563ccd697a3fd8ec66df4c10f\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\31bf32e563ccd697a3fd8ec66df4c10f\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8cc0bb8f0a1eee86dd14bf7a5763306e\AndroidManifest.xml:20:5-44
@@ -136,6 +147,8 @@ MERGED from [:app] D:\android_project\BaseAppFramework\app\build\intermediates\m
 MERGED from [:app] D:\android_project\BaseAppFramework\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-17:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f5777e7948050dac4848727cf0c1dbee\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f5777e7948050dac4848727cf0c1dbee\AndroidManifest.xml:9:5-20
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.8.0] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.0.aar\aff31e74e7e1f159499fd98fb5298620\AndroidManifest.xml:17:5-20:19
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.8.0] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.0.aar\aff31e74e7e1f159499fd98fb5298620\AndroidManifest.xml:17:5-20:19
 	android:supportsRtl
 		ADDED from D:\android_project\BaseAppFramework\demo\src\main\AndroidManifest.xml:29:9-35
 	android:label
@@ -184,3 +197,7 @@ ADDED from D:\android_project\BaseAppFramework\demo\src\main\AndroidManifest.xml
 		ADDED from D:\android_project\BaseAppFramework\demo\src\main\AndroidManifest.xml:42:75-133
 	android:name
 		ADDED from D:\android_project\BaseAppFramework\demo\src\main\AndroidManifest.xml:42:19-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [com.aliyun.dpa:oss-android-sdk:2.8.0] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.0.aar\aff31e74e7e1f159499fd98fb5298620\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from [com.aliyun.dpa:oss-android-sdk:2.8.0] C:\Users\acer\.gradle\caches\transforms-1\files-1.1\oss-android-sdk-2.8.0.aar\aff31e74e7e1f159499fd98fb5298620\AndroidManifest.xml:15:22-73
